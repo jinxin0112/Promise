@@ -267,3 +267,6 @@ function resolvePromise(promise2, x, resolve, reject) {
         })
     }
 ```
+
+[参考文档]：
+[Promise A+ 规范](https://promisesaplus.com/)
